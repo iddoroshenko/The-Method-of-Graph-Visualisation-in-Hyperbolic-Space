@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-02-11">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="regulation" title="regulation" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="688.4593" y="715.5565"></viz:position>
+      </node>
+      <node id="1" label="1">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="304.017" y="-791.365"></viz:position>
+      </node>
+      <node id="2" label="2">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-309.00034" y="105.09493"></viz:position>
+      </node>
+      <node id="3" label="3">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1212.9794" y="458.2852"></viz:position>
+      </node>
+      <node id="4" label="4">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1525.7244" y="1083.411"></viz:position>
+      </node>
+      <node id="5" label="5">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1317.9862" y="1070.591"></viz:position>
+      </node>
+      <node id="6" label="6">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="631.7241" y="364.6938"></viz:position>
+      </node>
+      <node id="7" label="7">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-210.31342" y="52.280766"></viz:position>
+      </node>
+      <node id="8" label="8">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1459.5743" y="983.2035"></viz:position>
+      </node>
+      <node id="9" label="9">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="284.3268" y="-432.39822"></viz:position>
+      </node>
+      <node id="10" label="10">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1257.1951" y="365.42282"></viz:position>
+      </node>
+      <node id="11" label="11">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-695.9486" y="-852.96814"></viz:position>
+      </node>
+      <node id="12" label="12">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1422.7047" y="859.39703"></viz:position>
+      </node>
+      <node id="13" label="13">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-447.65253" y="-498.72855"></viz:position>
+      </node>
+      <node id="14" label="14">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-589.2021" y="285.57852"></viz:position>
+      </node>
+      <node id="15" label="15">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-346.9372" y="-624.89"></viz:position>
+      </node>
+      <node id="16" label="16">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="977.0768" y="1134.3601"></viz:position>
+      </node>
+      <node id="17" label="17">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-916.5095" y="57.461937"></viz:position>
+      </node>
+      <node id="18" label="18">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="738.65643" y="427.01108"></viz:position>
+      </node>
+      <node id="19" label="19">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-110.58704" y="-181.52705"></viz:position>
+      </node>
+      <node id="20" label="20">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-882.03815" y="-120.53891"></viz:position>
+      </node>
+      <node id="21" label="21">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="881.8045" y="1224.4858"></viz:position>
+      </node>
+      <node id="22" label="22">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-782.6047" y="406.06042"></viz:position>
+      </node>
+      <node id="23" label="23">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-968.1554" y="166.50594"></viz:position>
+      </node>
+      <node id="24" label="24">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="613.7527" y="1056.1725"></viz:position>
+      </node>
+      <node id="25" label="25">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="559.0819" y="974.6045"></viz:position>
+      </node>
+      <node id="26" label="26">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="642.0076" y="930.06506"></viz:position>
+      </node>
+      <node id="27" label="27">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="310.45996" y="57.95675"></viz:position>
+      </node>
+      <node id="28" label="28">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1041.7046" y="-142.25804"></viz:position>
+      </node>
+      <node id="29" label="29">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="522.0895" y="49.393974"></viz:position>
+      </node>
+      <node id="30" label="30">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="968.1255" y="1264.2407"></viz:position>
+      </node>
+      <node id="31" label="31">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1673.2522" y="788.9984"></viz:position>
+      </node>
+      <node id="32" label="32">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-503.31238" y="-730.60565"></viz:position>
+      </node>
+      <node id="33" label="33">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-175.92282" y="-928.6424"></viz:position>
+      </node>
+      <node id="34" label="34">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1206.298" y="-184.29115"></viz:position>
+      </node>
+      <node id="35" label="35">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-24.779566" y="234.43985"></viz:position>
+      </node>
+      <node id="36" label="36">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-212.63924" y="-504.40524"></viz:position>
+      </node>
+      <node id="37" label="37">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-478.51608" y="-894.7671"></viz:position>
+      </node>
+      <node id="38" label="38">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="291.84213" y="504.25107"></viz:position>
+      </node>
+      <node id="39" label="39">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-3.3022327E-4" y="-0.00363278"></viz:position>
+      </node>
+      <node id="40" label="40">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1195.984" y="752.80237"></viz:position>
+      </node>
+      <node id="41" label="41">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="368.75943" y="-340.96075"></viz:position>
+      </node>
+      <node id="42" label="42">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-388.7382" y="-1039.5067"></viz:position>
+      </node>
+      <node id="43" label="43">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-14.550846" y="-875.7208"></viz:position>
+      </node>
+      <node id="44" label="44">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-733.8291" y="137.77591"></viz:position>
+      </node>
+      <node id="45" label="45">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-308.87415" y="-1357.422"></viz:position>
+      </node>
+      <node id="46" label="46">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="345.93967" y="-178.36795"></viz:position>
+      </node>
+      <node id="47" label="47">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1320.48" y="726.8413"></viz:position>
+      </node>
+      <node id="48" label="48">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-237.91878" y="-1349.1311"></viz:position>
+      </node>
+      <node id="49" label="49">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-423.27637" y="-276.74332"></viz:position>
+      </node>
+      <node id="50" label="50">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1091.794" y="309.6503"></viz:position>
+      </node>
+      <node id="51" label="51">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-706.053" y="-486.97168"></viz:position>
+      </node>
+      <node id="52" label="52">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="126.08193" y="-1142.1921"></viz:position>
+      </node>
+      <node id="53" label="53">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1044.9014" y="672.0964"></viz:position>
+      </node>
+      <node id="54" label="54">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-983.71625" y="470.81253"></viz:position>
+      </node>
+      <node id="55" label="55">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1482.6964" y="1175.9647"></viz:position>
+      </node>
+      <node id="56" label="56">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1249.8292" y="892.99725"></viz:position>
+      </node>
+      <node id="57" label="57">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-598.54974" y="-1066.4121"></viz:position>
+      </node>
+      <node id="58" label="58">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-336.76205" y="238.92357"></viz:position>
+      </node>
+      <node id="59" label="59">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="1737.2188" y="738.6826"></viz:position>
+      </node>
+      <node id="60" label="60">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="220.78482" y="-1014.50244"></viz:position>
+      </node>
+      <node id="61" label="61">
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="176.89316" y="-233.06653"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="4296" source="0" target="53">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4297" source="53" target="40">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4298" source="40" target="12">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4299" source="12" target="8">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4300" source="8" target="4">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4301" source="4" target="55">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4302" source="8" target="31">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4303" source="31" target="59">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4304" source="12" target="5">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4305" source="5" target="16">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4306" source="16" target="21">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4307" source="16" target="30">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4308" source="12" target="56">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4309" source="56" target="47">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4310" source="56" target="38">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4311" source="0" target="26">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4312" source="26" target="25">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4313" source="26" target="24">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4314" source="0" target="18">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4315" source="18" target="6">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4316" source="6" target="29">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4317" source="29" target="27">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4318" source="27" target="46">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4319" source="46" target="41">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4320" source="41" target="9">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4321" source="9" target="1">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4322" source="41" target="61">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4323" source="61" target="39">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4324" source="39" target="13">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4325" source="13" target="36">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4326" source="36" target="42">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4327" source="42" target="45">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4328" source="36" target="60">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4329" source="60" target="52">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4330" source="13" target="15">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4331" source="15" target="49">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4332" source="49" target="19">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4333" source="19" target="7">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4334" source="7" target="58">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4335" source="7" target="2">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4336" source="19" target="43">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4337" source="49" target="44">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4338" source="44" target="17">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4339" source="17" target="23">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4340" source="17" target="28">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4341" source="28" target="34">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4342" source="44" target="20">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4343" source="44" target="14">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4344" source="44" target="50">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4345" source="50" target="54">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4346" source="50" target="3">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4347" source="50" target="10">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4348" source="44" target="22">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4349" source="15" target="37">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4350" source="37" target="57">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4351" source="13" target="32">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4352" source="32" target="11">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4353" source="13" target="51">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4354" source="13" target="33">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4355" source="33" target="48">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4356" source="39" target="35">
+        <viz:color r="0" g="148" b="46"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4357" source="0" target="16">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4358" source="0" target="25">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4359" source="0" target="27">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4360" source="0" target="35">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4361" source="0" target="40">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4362" source="1" target="41">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4363" source="1" target="43">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4364" source="1" target="60">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4365" source="2" target="13">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4366" source="2" target="58">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4367" source="4" target="12">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4368" source="4" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4369" source="5" target="8">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4370" source="5" target="53">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4371" source="5" target="55">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4372" source="5" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4373" source="6" target="26">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4374" source="6" target="39">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4375" source="6" target="53">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4376" source="7" target="27">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4377" source="7" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4378" source="7" target="44">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4379" source="8" target="16">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4380" source="8" target="40">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4381" source="8" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4382" source="9" target="28">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4383" source="9" target="46">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4384" source="9" target="61">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4385" source="12" target="16">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4386" source="12" target="31">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4387" source="12" target="53">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4388" source="13" target="23">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4389" source="13" target="37">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4390" source="13" target="42">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4391" source="13" target="49">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4392" source="13" target="61">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4393" source="14" target="17">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4394" source="14" target="23">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4395" source="14" target="39">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4396" source="14" target="54">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4397" source="14" target="58">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4398" source="14" target="61">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4399" source="15" target="19">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4400" source="15" target="32">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4401" source="15" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4402" source="16" target="24">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4403" source="16" target="26">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4404" source="16" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4405" source="17" target="19">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4406" source="17" target="20">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4407" source="17" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4408" source="18" target="29">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4409" source="18" target="53">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4410" source="19" target="27">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4411" source="19" target="35">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4412" source="19" target="37">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4413" source="19" target="46">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4414" source="20" target="28">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4415" source="20" target="32">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4416" source="20" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4417" source="20" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4418" source="22" target="35">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4419" source="22" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4420" source="23" target="28">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4421" source="23" target="44">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4422" source="23" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4423" source="24" target="25">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4424" source="28" target="42">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4425" source="28" target="44">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4426" source="28" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4427" source="28" target="51">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4428" source="29" target="41">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4429" source="29" target="46">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4430" source="32" target="33">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4431" source="32" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4432" source="32" target="37">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4433" source="32" target="39">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4434" source="32" target="42">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4435" source="32" target="49">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4436" source="33" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4437" source="33" target="43">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4438" source="35" target="36">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4439" source="35" target="38">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4440" source="35" target="58">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4441" source="36" target="39">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4442" source="36" target="44">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4443" source="37" target="42">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4444" source="37" target="43">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4445" source="37" target="51">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4446" source="39" target="51">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4447" source="40" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4448" source="41" target="49">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4449" source="42" target="52">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4450" source="44" target="58">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4451" source="45" target="48">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4452" source="46" target="61">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4453" source="49" target="50">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4454" source="53" target="56">
+        <viz:color r="255" g="221" b="117"></viz:color>
+        <attvalues>
+          <attvalue for="regulation" value="Not tree"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,22 @@
+];
+	@paths=;
+
+	### attribute data ###
+	@enumerations=;
+	@attributeDefinitions=
+	[
+		{
+			@name=$root;
+			@type=bool;
+			@default=|| false ||;
+			@nodeValues=[ { @id=0; @value=T; } ];
+			@linkValues=;
+			@pathValues=;
+		}
+		,
+		{
+			@name=$tree_link;
+			@type=bool;
+			@default=|| false ||;
+			@nodeValues=;
+			@linkValues=[

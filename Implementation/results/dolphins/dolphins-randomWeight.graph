@@ -1,0 +1,428 @@
+Graph
+{
+	### metadata ###
+	@name="karate MST";
+	@description="AHAHA";
+	@numNodes=62;
+	@numLinks=159;
+	@numPaths=0;
+	@numPathLinks=0;
+
+	### structural data ###
+	@links=[
+		{ @source=0; @destination=16; },
+		{ @source=16; @destination=24; },
+		{ @source=24; @destination=25; },
+		{ @source=16; @destination=12; },
+		{ @source=12; @destination=5; },
+		{ @source=5; @destination=56; },
+		{ @source=56; @destination=38; },
+		{ @source=38; @destination=35; },
+		{ @source=35; @destination=22; },
+		{ @source=56; @destination=8; },
+		{ @source=8; @destination=4; },
+		{ @source=4; @destination=55; },
+		{ @source=56; @destination=47; },
+		{ @source=12; @destination=40; },
+		{ @source=40; @destination=53; },
+		{ @source=53; @destination=18; },
+		{ @source=53; @destination=6; },
+		{ @source=6; @destination=29; },
+		{ @source=29; @destination=41; },
+		{ @source=41; @destination=49; },
+		{ @source=49; @destination=44; },
+		{ @source=44; @destination=36; },
+		{ @source=36; @destination=15; },
+		{ @source=36; @destination=32; },
+		{ @source=32; @destination=37; },
+		{ @source=37; @destination=13; },
+		{ @source=13; @destination=2; },
+		{ @source=2; @destination=58; },
+		{ @source=13; @destination=51; },
+		{ @source=37; @destination=19; },
+		{ @source=37; @destination=57; },
+		{ @source=32; @destination=39; },
+		{ @source=39; @destination=14; },
+		{ @source=14; @destination=17; },
+		{ @source=17; @destination=20; },
+		{ @source=20; @destination=28; },
+		{ @source=28; @destination=9; },
+		{ @source=28; @destination=42; },
+		{ @source=42; @destination=52; },
+		{ @source=52; @destination=60; },
+		{ @source=60; @destination=1; },
+		{ @source=42; @destination=45; },
+		{ @source=45; @destination=48; },
+		{ @source=28; @destination=34; },
+		{ @source=17; @destination=23; },
+		{ @source=14; @destination=61; },
+		{ @source=61; @destination=46; },
+		{ @source=32; @destination=11; },
+		{ @source=36; @destination=33; },
+		{ @source=33; @destination=43; },
+		{ @source=44; @destination=7; },
+		{ @source=49; @destination=50; },
+		{ @source=50; @destination=3; },
+		{ @source=50; @destination=10; },
+		{ @source=50; @destination=54; },
+		{ @source=6; @destination=26; },
+		{ @source=12; @destination=31; },
+		{ @source=31; @destination=59; },
+		{ @source=16; @destination=21; },
+		{ @source=16; @destination=30; },
+		{ @source=0; @destination=27; },
+		{ @source=0; @destination=18; },
+		{ @source=0; @destination=25; },
+		{ @source=0; @destination=26; },
+		{ @source=0; @destination=35; },
+		{ @source=0; @destination=40; },
+		{ @source=0; @destination=53; },
+		{ @source=1; @destination=9; },
+		{ @source=1; @destination=41; },
+		{ @source=1; @destination=43; },
+		{ @source=2; @destination=7; },
+		{ @source=4; @destination=12; },
+		{ @source=4; @destination=56; },
+		{ @source=5; @destination=8; },
+		{ @source=5; @destination=16; },
+		{ @source=5; @destination=53; },
+		{ @source=5; @destination=55; },
+		{ @source=6; @destination=18; },
+		{ @source=6; @destination=39; },
+		{ @source=7; @destination=19; },
+		{ @source=7; @destination=27; },
+		{ @source=7; @destination=36; },
+		{ @source=7; @destination=58; },
+		{ @source=8; @destination=12; },
+		{ @source=8; @destination=16; },
+		{ @source=8; @destination=31; },
+		{ @source=8; @destination=40; },
+		{ @source=9; @destination=41; },
+		{ @source=9; @destination=46; },
+		{ @source=9; @destination=61; },
+		{ @source=12; @destination=53; },
+		{ @source=12; @destination=56; },
+		{ @source=13; @destination=15; },
+		{ @source=13; @destination=23; },
+		{ @source=13; @destination=32; },
+		{ @source=13; @destination=33; },
+		{ @source=13; @destination=36; },
+		{ @source=13; @destination=39; },
+		{ @source=13; @destination=42; },
+		{ @source=13; @destination=49; },
+		{ @source=13; @destination=61; },
+		{ @source=14; @destination=23; },
+		{ @source=14; @destination=44; },
+		{ @source=14; @destination=54; },
+		{ @source=14; @destination=58; },
+		{ @source=15; @destination=19; },
+		{ @source=15; @destination=32; },
+		{ @source=15; @destination=37; },
+		{ @source=15; @destination=49; },
+		{ @source=16; @destination=26; },
+		{ @source=16; @destination=56; },
+		{ @source=17; @destination=19; },
+		{ @source=17; @destination=28; },
+		{ @source=17; @destination=44; },
+		{ @source=17; @destination=50; },
+		{ @source=18; @destination=29; },
+		{ @source=19; @destination=27; },
+		{ @source=19; @destination=35; },
+		{ @source=19; @destination=43; },
+		{ @source=19; @destination=46; },
+		{ @source=19; @destination=49; },
+		{ @source=20; @destination=32; },
+		{ @source=20; @destination=36; },
+		{ @source=20; @destination=44; },
+		{ @source=20; @destination=50; },
+		{ @source=22; @destination=44; },
+		{ @source=22; @destination=50; },
+		{ @source=23; @destination=28; },
+		{ @source=23; @destination=44; },
+		{ @source=23; @destination=50; },
+		{ @source=24; @destination=26; },
+		{ @source=25; @destination=26; },
+		{ @source=27; @destination=29; },
+		{ @source=27; @destination=46; },
+		{ @source=28; @destination=44; },
+		{ @source=28; @destination=50; },
+		{ @source=28; @destination=51; },
+		{ @source=29; @destination=46; },
+		{ @source=32; @destination=33; },
+		{ @source=32; @destination=42; },
+		{ @source=32; @destination=49; },
+		{ @source=33; @destination=48; },
+		{ @source=35; @destination=36; },
+		{ @source=35; @destination=39; },
+		{ @source=35; @destination=58; },
+		{ @source=36; @destination=39; },
+		{ @source=36; @destination=42; },
+		{ @source=36; @destination=60; },
+		{ @source=37; @destination=42; },
+		{ @source=37; @destination=43; },
+		{ @source=37; @destination=51; },
+		{ @source=39; @destination=51; },
+		{ @source=39; @destination=61; },
+		{ @source=40; @destination=56; },
+		{ @source=41; @destination=46; },
+		{ @source=41; @destination=61; },
+		{ @source=44; @destination=50; },
+		{ @source=44; @destination=58; },
+		{ @source=53; @destination=56; }
+];
+	@paths=;
+
+	### attribute data ###
+	@enumerations=;
+	@attributeDefinitions=
+	[
+		{
+			@name=$root;
+			@type=bool;
+			@default=|| false ||;
+			@nodeValues=[ { @id=0; @value=T; } ];
+			@linkValues=;
+			@pathValues=;
+		}
+		,
+		{
+			@name=$tree_link;
+			@type=bool;
+			@default=|| false ||;
+			@nodeValues=;
+			@linkValues=[
+				{ @id=0; @value=T; },
+				{ @id=1; @value=T; },
+				{ @id=2; @value=T; },
+				{ @id=3; @value=T; },
+				{ @id=4; @value=T; },
+				{ @id=5; @value=T; },
+				{ @id=6; @value=T; },
+				{ @id=7; @value=T; },
+				{ @id=8; @value=T; },
+				{ @id=9; @value=T; },
+				{ @id=10; @value=T; },
+				{ @id=11; @value=T; },
+				{ @id=12; @value=T; },
+				{ @id=13; @value=T; },
+				{ @id=14; @value=T; },
+				{ @id=15; @value=T; },
+				{ @id=16; @value=T; },
+				{ @id=17; @value=T; },
+				{ @id=18; @value=T; },
+				{ @id=19; @value=T; },
+				{ @id=20; @value=T; },
+				{ @id=21; @value=T; },
+				{ @id=22; @value=T; },
+				{ @id=23; @value=T; },
+				{ @id=24; @value=T; },
+				{ @id=25; @value=T; },
+				{ @id=26; @value=T; },
+				{ @id=27; @value=T; },
+				{ @id=28; @value=T; },
+				{ @id=29; @value=T; },
+				{ @id=30; @value=T; },
+				{ @id=31; @value=T; },
+				{ @id=32; @value=T; },
+				{ @id=33; @value=T; },
+				{ @id=34; @value=T; },
+				{ @id=35; @value=T; },
+				{ @id=36; @value=T; },
+				{ @id=37; @value=T; },
+				{ @id=38; @value=T; },
+				{ @id=39; @value=T; },
+				{ @id=40; @value=T; },
+				{ @id=41; @value=T; },
+				{ @id=42; @value=T; },
+				{ @id=43; @value=T; },
+				{ @id=44; @value=T; },
+				{ @id=45; @value=T; },
+				{ @id=46; @value=T; },
+				{ @id=47; @value=T; },
+				{ @id=48; @value=T; },
+				{ @id=49; @value=T; },
+				{ @id=50; @value=T; },
+				{ @id=51; @value=T; },
+				{ @id=52; @value=T; },
+				{ @id=53; @value=T; },
+				{ @id=54; @value=T; },
+				{ @id=55; @value=T; },
+				{ @id=56; @value=T; },
+				{ @id=57; @value=T; },
+				{ @id=58; @value=T; },
+				{ @id=59; @value=T; },
+				{ @id=60; @value=T; }
+];
+			@pathValues=;
+		}
+		,
+		{
+			@name=$node_id;
+			@type=int;
+			@default=;
+			@nodeValues=[
+				{ @id=0; @value=1; },
+				{ @id=1; @value=2; },
+				{ @id=2; @value=3; },
+				{ @id=3; @value=4; },
+				{ @id=4; @value=5; },
+				{ @id=5; @value=6; },
+				{ @id=6; @value=7; },
+				{ @id=7; @value=8; },
+				{ @id=8; @value=9; },
+				{ @id=9; @value=10; },
+				{ @id=10; @value=11; },
+				{ @id=11; @value=12; },
+				{ @id=12; @value=13; },
+				{ @id=13; @value=14; },
+				{ @id=14; @value=15; },
+				{ @id=15; @value=16; },
+				{ @id=16; @value=17; },
+				{ @id=17; @value=18; },
+				{ @id=18; @value=19; },
+				{ @id=19; @value=20; },
+				{ @id=20; @value=21; },
+				{ @id=21; @value=22; },
+				{ @id=22; @value=23; },
+				{ @id=23; @value=24; },
+				{ @id=24; @value=25; },
+				{ @id=25; @value=26; },
+				{ @id=26; @value=27; },
+				{ @id=27; @value=28; },
+				{ @id=28; @value=29; },
+				{ @id=29; @value=30; },
+				{ @id=30; @value=31; },
+				{ @id=31; @value=32; },
+				{ @id=32; @value=33; },
+				{ @id=33; @value=34; },
+				{ @id=34; @value=35; },
+				{ @id=35; @value=36; },
+				{ @id=36; @value=37; },
+				{ @id=37; @value=38; },
+				{ @id=38; @value=39; },
+				{ @id=39; @value=40; },
+				{ @id=40; @value=41; },
+				{ @id=41; @value=42; },
+				{ @id=42; @value=43; },
+				{ @id=43; @value=44; },
+				{ @id=44; @value=45; },
+				{ @id=45; @value=46; },
+				{ @id=46; @value=47; },
+				{ @id=47; @value=48; },
+				{ @id=48; @value=49; },
+				{ @id=49; @value=50; },
+				{ @id=50; @value=51; },
+				{ @id=51; @value=52; },
+				{ @id=52; @value=53; },
+				{ @id=53; @value=54; },
+				{ @id=54; @value=55; },
+				{ @id=55; @value=56; },
+				{ @id=56; @value=57; },
+				{ @id=57; @value=58; },
+				{ @id=58; @value=59; },
+				{ @id=59; @value=60; },
+				{ @id=60; @value=61; },
+				{ @id=61; @value=62; }
+];
+			@linkValues=;
+			@pathValues=;
+		},
+		{
+			@name=$label;
+			@type=string;
+			@default=;
+			@nodeValues=[
+				{ @id=0; @value="Beak"; },
+				{ @id=1; @value="Beescratch"; },
+				{ @id=2; @value="Bumper"; },
+				{ @id=3; @value="CCL"; },
+				{ @id=4; @value="Cross"; },
+				{ @id=5; @value="DN16"; },
+				{ @id=6; @value="DN21"; },
+				{ @id=7; @value="DN63"; },
+				{ @id=8; @value="Double"; },
+				{ @id=9; @value="Feather"; },
+				{ @id=10; @value="Fish"; },
+				{ @id=11; @value="Five"; },
+				{ @id=12; @value="Fork"; },
+				{ @id=13; @value="Gallatin"; },
+				{ @id=14; @value="Grin"; },
+				{ @id=15; @value="Haecksel"; },
+				{ @id=16; @value="Hook"; },
+				{ @id=17; @value="Jet"; },
+				{ @id=18; @value="Jonah"; },
+				{ @id=19; @value="Knit"; },
+				{ @id=20; @value="Kringel"; },
+				{ @id=21; @value="MN105"; },
+				{ @id=22; @value="MN23"; },
+				{ @id=23; @value="MN60"; },
+				{ @id=24; @value="MN83"; },
+				{ @id=25; @value="Mus"; },
+				{ @id=26; @value="Notch"; },
+				{ @id=27; @value="Number1"; },
+				{ @id=28; @value="Oscar"; },
+				{ @id=29; @value="Patchback"; },
+				{ @id=30; @value="PL"; },
+				{ @id=31; @value="Quasi"; },
+				{ @id=32; @value="Ripplefluke"; },
+				{ @id=33; @value="Scabs"; },
+				{ @id=34; @value="Shmuddel"; },
+				{ @id=35; @value="SMN5"; },
+				{ @id=36; @value="SN100"; },
+				{ @id=37; @value="SN4"; },
+				{ @id=38; @value="SN63"; },
+				{ @id=39; @value="SN89"; },
+				{ @id=40; @value="SN9"; },
+				{ @id=41; @value="SN90"; },
+				{ @id=42; @value="SN96"; },
+				{ @id=43; @value="Stripes"; },
+				{ @id=44; @value="Thumper"; },
+				{ @id=45; @value="Topless"; },
+				{ @id=46; @value="TR120"; },
+				{ @id=47; @value="TR77"; },
+				{ @id=48; @value="TR82"; },
+				{ @id=49; @value="TR88"; },
+				{ @id=50; @value="TR99"; },
+				{ @id=51; @value="Trigger"; },
+				{ @id=52; @value="TSN103"; },
+				{ @id=53; @value="TSN83"; },
+				{ @id=54; @value="Upbang"; },
+				{ @id=55; @value="Vau"; },
+				{ @id=56; @value="Wave"; },
+				{ @id=57; @value="Web"; },
+				{ @id=58; @value="Whitetip"; },
+				{ @id=59; @value="Zap"; },
+				{ @id=60; @value="Zig"; },
+				{ @id=61; @value="Zipfel"; }
+	];
+			@linkValues=;
+			@pathValues=;
+		}
+	];
+	@qualifiers=
+	[
+		{
+			@type=$spanning_tree;
+			@name=$sample_spanning_tree;
+			@description=;
+			@attributes=
+			[
+				{@attribute=0;@alias=$root;},
+				{@attribute=1;@alias=$tree_link;}
+			];
+		}
+	];
+
+	### visualization hints ###
+	@filters=;
+	@selectors=;
+	@displays=;
+	@presentations=;
+
+	### interface hints ###
+	@presentationMenus=;
+	@displayMenus=;
+	@selectorMenus=;
+	@filterMenus=;
+	@attributeMenus=;
+}

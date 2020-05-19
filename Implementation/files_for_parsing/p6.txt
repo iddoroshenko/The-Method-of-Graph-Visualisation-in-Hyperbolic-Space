@@ -1,0 +1,32 @@
+	];
+			@linkValues=;
+			@pathValues=;
+		}
+	];
+	@qualifiers=
+	[
+		{
+			@type=$spanning_tree;
+			@name=$sample_spanning_tree;
+			@description=;
+			@attributes=
+			[
+				{@attribute=0;@alias=$root;},
+				{@attribute=1;@alias=$tree_link;}
+			];
+		}
+	];
+
+	### visualization hints ###
+	@filters=;
+	@selectors=;
+	@displays=;
+	@presentations=;
+
+	### interface hints ###
+	@presentationMenus=;
+	@displayMenus=;
+	@selectorMenus=;
+	@filterMenus=;
+	@attributeMenus=;
+}

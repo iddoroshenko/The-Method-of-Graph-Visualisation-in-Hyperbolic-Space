@@ -1,0 +1,16 @@
+|******karate********|
+|     nodes: 34      |
+|     edges: 78      |
+|***celegansneural***|
+|     nodes: 297     |
+|     edges: 2148    |
+|******dolphins******|
+|     nodes: 62      |
+|     edges: 159     |
+|******football******|
+|     nodes: 115     |
+|     edges: 613     |
+|*******lesmis*******|
+|     nodes: 77      |
+|     edges: 254     |
+|********************|

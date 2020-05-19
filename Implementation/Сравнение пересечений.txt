@@ -1,0 +1,18 @@
+Резульаты:
+Gephi - Force Atlas:
+Karate - 58
+celegansneural - 95554
+dolphins - 235
+football - 4327
+lesmis - 765
+
+Walrus:
+ACD - MIN:
+karate - 107
+dolphins - 371
+lesmis - 838
+football - 11985
+
+
+
+

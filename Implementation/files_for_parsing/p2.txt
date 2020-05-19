@@ -1,0 +1,5 @@
+	@numPaths=0;
+	@numPathLinks=0;
+
+	### structural data ###
+	@links=[
